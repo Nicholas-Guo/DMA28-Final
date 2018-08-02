@@ -1,0 +1,23 @@
+html {
+  background-color: black;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.btn {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+/*h1.title {
+  font-size: 4em;
+  font-family: 'Josefin Sans', sans-serif;
+  color: #ccc;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -38px;
+  margin-left: -259.703px;
+}
+
+h1.select {
+	display: hidden;
+}*/
