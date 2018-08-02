@@ -22,12 +22,18 @@ var population = {
 	'100': 'There are so many people in the kingdom, however, there are not enough food for every people, most of them die of starving and the fights for food.'
 };
 
+var win = {
+  '0': 'Congratulation, you have sucessfully experienced all of our stories, both of the countries survive through so many events, thank you for playing our game.',
+  '100': 'Congratulation, you have sucessfully experienced all of our stories, both of the countries survive through so many events, thank you for playing our game.'
+}
+
 
 var endings = {
   faith,
   military,
   wealth,
-  population
+  population,
+  win
 };
 
 
