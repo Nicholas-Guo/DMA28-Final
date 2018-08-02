@@ -273,7 +273,7 @@ function preload() {
   Pirate = loadImage('assets/Pirate.jpg');
   Devil_Commiitee = loadImage('assets/Evil_Wizard.jpg');
   Merchant_Chen = loadImage('assets/Merchant_Chen.jpg');
-  Spring_Maiden = loadImage('assets/Spring_maiden.JPEG');
+  Spring_Maiden = loadImage('assets/Spring_maiden.jpg');
   Demon_prince = loadImage('assets/Demon_prince.jpg');
   Princess = loadImage('assets/princess.jpeg');
 
